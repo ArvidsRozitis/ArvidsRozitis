@@ -43,7 +43,7 @@
 <br/>
 📫 email: arvids.rozitis.cits@gmail.com
 
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Arvīds Rozītis](mailto:arvids.rozitis.cits@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 </p>
 <!--
 **ArvidsRozitis/ArvidsRozitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
