@@ -2,7 +2,6 @@
 
 <p>I am a front end programmer with an insight into the back end. The technologies I use are Typscripts, Reacts, Html, Css, Redux. I have insights into JsExpress, MySQL, Mongodb and other programming technologies. I chose to be a programmer because I believe that with technology we can reach many people and improve their standard of living by creating new and more effective solutions to various current problems. In addition, I enjoy solving complex problems.</p>
 
-
 ---
 
 <h2>🛠️ Toolbox:</h2>
@@ -23,6 +22,10 @@
 <br/>
 
 ---
+
+<h2>💼 Statistics<h2/>
+  latest works
+https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game
 
 <h2>📈 Statistics:</h2>
 <a href="https://github.com/ArvidsRozitis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidsRozitis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
