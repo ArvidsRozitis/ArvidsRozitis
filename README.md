@@ -1,7 +1,9 @@
 # Hello there 👋, I am Arvīds Rozītis!
 ---
+
 <h2>Description:</h2
 <p>I am a front end programmer with an insight into the back end. The technologies I use are Typscripts, Reacts, Html, Css, Redux. I have insights into JsExpress, MySQL, Mongodb and other programming technologies. I chose to be a programmer because I believe that with technology we can reach many people and improve their standard of living by creating new and more effective solutions to various current problems. In addition, I enjoy solving complex problems.</p>
+
 ---
 🧰 Toolbox
 <br/>
@@ -19,6 +21,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo db" width="50" height="50"/> </a>
+
 ---
 
 <!--
