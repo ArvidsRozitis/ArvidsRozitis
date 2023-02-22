@@ -43,7 +43,7 @@
 <br/>
 📫 email: arvids.rozitis.cits@gmail.com
 
-[Arvīds Rozītis](mailto:arvids.rozitis.cits@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[arvids.rozitis.cits@gmail.com](mailto:arvids.rozitis.cits@gmail.com)
 </p>
 <!--
 **ArvidsRozitis/ArvidsRozitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
