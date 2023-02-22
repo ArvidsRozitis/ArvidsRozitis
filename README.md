@@ -25,7 +25,7 @@
 
 <h2>💼 Latest works<h2/>
  
-[I'm an inline-style link](https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
+[Rock Paper Scissors game](https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
 
   
  ---
