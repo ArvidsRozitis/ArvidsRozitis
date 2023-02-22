@@ -1,8 +1,9 @@
 # Hello there 👋, I am Arvīds Rozītis!
----
+
 <h2> Description:</h2
 <p>I am a front end programmer with an insight into the back end. The technologies I use are Typscripts, Reacts, Html, Css, Redux. I have insights into JsExpress, MySQL, Mongodb and other programming technologies. I chose to be a programmer because I believe that with technology we can reach many people and improve their standard of living by creating new and more effective solutions to various current problems. In addition, I enjoy solving complex problems.</p>
-
+<br/>
+<br/>
 ---
 <h2>🧰 Toolbox:</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
@@ -18,12 +19,17 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo db" width="50" height="50"/> </a>
+<br/>
+<br/>
 
 ---
 <h2>Stats:</h2>
 <a href="https://github.com/ArvidsRozitis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidsRozitis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/ArvidsRozitis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArvidsRozitis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 ---
 <h2>Social:</h2>
