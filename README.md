@@ -34,7 +34,12 @@
 ---
 
 <h2>📝 Contact me:</h2>
-<p align="left"> <a href="https://www.linkedin.com/in/arvidsrozitis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/arvidsrozitis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<br/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" height="32" /> 
+  arvids.rozitis.cits@gmail.com
+ 
+</p>
 <!--
 **ArvidsRozitis/ArvidsRozitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
