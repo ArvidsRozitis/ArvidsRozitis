@@ -14,7 +14,7 @@ Description:
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mogodb logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma logo" height="50"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="figma logo" height="50" width="50"/>
 ---
 
 <!--
