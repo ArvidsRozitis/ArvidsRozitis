@@ -5,6 +5,7 @@ Description:
 🧰 Toolbox
 <br/>
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html logo" width="50" height="50"/>
+<img src="<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="scss logo" width="50" height="50"/>" alt="css logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="scss logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="java script logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="type script logo" width="50" height="50"/>
