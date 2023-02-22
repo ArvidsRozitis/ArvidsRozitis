@@ -36,7 +36,8 @@
 <h2>📝 Contact me:</h2>
 <p align="left"> <a href="https://www.linkedin.com/in/arvidsrozitis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <br/>
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" height="32" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" height="32" target="_blank" />
+  <br/>
   arvids.rozitis.cits@gmail.com
  
 </p>
