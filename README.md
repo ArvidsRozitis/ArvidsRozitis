@@ -42,7 +42,8 @@
 <p align="left"> <a href="https://www.linkedin.com/in/arvidsrozitis/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" height="32" /></a>
 <br/>
 📫 email: arvids.rozitis.cits@gmail.com
- [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 </p>
 <!--
 **ArvidsRozitis/ArvidsRozitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
