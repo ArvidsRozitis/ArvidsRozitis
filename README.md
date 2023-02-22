@@ -24,8 +24,9 @@
 ---
 
 <h2>💼 Latest works<h2/>
+ 
+[I'm an inline-style link](https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
 
-<a href="https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game" align="left"><p>Rock Papper Scisors Game</p></a>
   
  ---
 
