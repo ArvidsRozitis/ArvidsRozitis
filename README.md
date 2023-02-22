@@ -1,11 +1,11 @@
 # Hello there 👋, I am Arvīds Rozītis!
 
-<h2> Description:</h2
 <p>I am a front end programmer with an insight into the back end. The technologies I use are Typscripts, Reacts, Html, Css, Redux. I have insights into JsExpress, MySQL, Mongodb and other programming technologies. I chose to be a programmer because I believe that with technology we can reach many people and improve their standard of living by creating new and more effective solutions to various current problems. In addition, I enjoy solving complex problems.</p>
 <br/>
-<br/>
+
 
 ---
+
 <h2>🧰 Toolbox:</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="TypeScript" /></a>
@@ -24,6 +24,7 @@
 <br/>
 
 ---
+
 <h2>Stats:</h2>
 <a href="https://github.com/ArvidsRozitis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvidsRozitis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -33,6 +34,7 @@
 <br/>
 
 ---
+
 <h2>Social:</h2>
 <p align="left"> <a href="https://www.linkedin.com/in/arvidsrozitis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <!--
