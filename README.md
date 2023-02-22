@@ -13,8 +13,6 @@ Description:
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mogodb logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql logo" width="50" height="50"/>
-
-
 ---
 
 <!--
