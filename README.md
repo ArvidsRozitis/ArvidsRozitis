@@ -1,6 +1,6 @@
 # Hello there 👋, I am Arvīds Rozītis!
 ---
-<h3>Description:</h3>
+<h2>Description:</h2
 <p>I am a front end programmer with an insight into the back end. The technologies I use are Typscripts, Reacts, Html, Css, Redux. I have insights into JsExpress, MySQL, Mongodb and other programming technologies. I chose to be a programmer because I believe that with technology we can reach many people and improve their standard of living by creating new and more effective solutions to various current problems. In addition, I enjoy solving complex problems.</p>
 ---
 🧰 Toolbox
