@@ -24,7 +24,7 @@
 ---
 
 <h2>💼 Statistics<h2/>
-  latest works
+  <p>latest works</p>
 https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game
 
 <h2>📈 Statistics:</h2>
