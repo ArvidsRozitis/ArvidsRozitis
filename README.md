@@ -24,7 +24,7 @@
 ---
 
 <h2>💼 Latest works<h2/>
-https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game
+(https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
   
  ---
 
