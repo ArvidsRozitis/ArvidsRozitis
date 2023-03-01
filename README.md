@@ -26,6 +26,7 @@
 <h2>💼 Latest works<h2/>
  
 [Rock Paper Scissors game](https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
+[Angular simple app](https://github.com/ArvidsRozitis/23-Angular-Services-App)
 
   
  ---
