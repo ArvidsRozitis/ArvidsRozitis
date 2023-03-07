@@ -28,7 +28,7 @@
  
 [Rock Paper Scissors game](https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
  
-[Angular simple app](https://github.com/ArvidsRozitis/23-Angular-Services-App)
+[Angular simple app](https://github.com/ArvidsRozitis/25-Angular-Router-Ngrx)
  
 [Memory Game](https://github.com/ArvidsRozitis/08-MD-Memory-Game)
 
