@@ -18,7 +18,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo db" width="50" height="50"/> </a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="mongo db" width="50" height="50"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="50" height="50"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="50" height="50"/> </a>
 <br/>
 <br/>
 
