@@ -35,11 +35,15 @@
  
 [Angular simple app](https://github.com/ArvidsRozitis/25-Angular-Router-Ngrx)
 
-
+<details><summary>👉 Previews</summary>
 ![preview-html](./preview-html.gif)
+ ---
 ![recipesPrev](./recipesPrev.gif)
+ ---
 ![jokes-app](./jokes-app.gif)
+ ---
 ![game1](./game1.gif)
+ </details>
   
  ---
 
