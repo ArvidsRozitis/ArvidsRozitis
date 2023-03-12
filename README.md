@@ -34,6 +34,8 @@
 [Rock Paper Scissors game](https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
  
 [Angular simple app](https://github.com/ArvidsRozitis/25-Angular-Router-Ngrx)
+
+[![Watch the video]](https://youtu.be/vt5fpE0bzSY)
    
  ---
 
