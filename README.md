@@ -27,17 +27,20 @@
 
 ---
 
-<h2>💼 Latest works<h2/>
+<h2>💼 Interesting works<h2/>
  
 [VUE Jokes App](https://github.com/ArvidsRozitis/26-Vue-Jokes)
  
-[Rock Paper Scissors game](https://github.com/ArvidsRozitis/18-MD-Simple-RPS-game)
+[Memory game](https://github.com/ArvidsRozitis/08-MD-Memory-Game)
  
 [Angular simple app](https://github.com/ArvidsRozitis/25-Angular-Router-Ngrx)
 
 
 ![preview-html](./preview-html.gif)
-   
+![recipesPrev](./recipesPrev.gif)
+![jokes-app](./jokes-app.gif)
+![game1](./game1.gif)
+  
  ---
 
 <h2>📈 Statistics:</h2>
