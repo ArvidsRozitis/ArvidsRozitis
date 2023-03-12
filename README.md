@@ -21,6 +21,8 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="50" height="50"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="50" height="50"/> </a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL" width="50" height="50"/> </a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL" width="50" height="50"/> </a>
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="wordpress" width="50" height="50"/> </a>
 <br/>
 <br/>
 
