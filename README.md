@@ -35,7 +35,9 @@
  
 [Angular simple app](https://github.com/ArvidsRozitis/25-Angular-Router-Ngrx)
 
-[![Watch the video]](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+![prew](./prew.mp4)
    
  ---
 
